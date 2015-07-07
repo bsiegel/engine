@@ -38,6 +38,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'haml',                            '~> 4.0.2'
   s.add_dependency 'jquery-rails',                    '~> 3.1.3'
   s.add_dependency 'jquery-migrate-rails',            '~> 1.2.1'
+  s.add_dependency 'jquery-ui-rails'
   s.add_dependency 'rails-backbone',                  '~> 0.7.2'
   s.add_dependency 'codemirror-rails',                '~> 3.13'
   s.add_dependency 'locomotive-tinymce-rails',        '~> 3.5.8.2'
